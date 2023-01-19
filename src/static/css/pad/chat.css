@@ -123,7 +123,8 @@
 #chaticon {
   background-color: #fff;
   cursor: pointer;
-  display: none;
+  /*display: none;*/
+  display: block!important;
   padding: 5px;
 }
 #chaticon a {
